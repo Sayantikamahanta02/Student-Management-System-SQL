@@ -1,4 +1,4 @@
-INSERT INTO student IF NOT EXISTS(student_id,name,age,gender,city)
+INSERT INTO student(student_id,name,age,gender,city)
 values
 (101, 'Rahul Sharma', 20, 'Male', 'Kolkata'),
 (102, 'Priya Das', 19, 'Female', 'Durgapur'),
