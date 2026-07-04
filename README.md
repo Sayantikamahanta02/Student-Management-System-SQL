@@ -29,10 +29,9 @@ This is a beginner SQL project built using MySQL. It manages students, courses, 
 - DELETE
 
 ## Project Structure
-- create_database.sql
 - create_tables.sql
 - insert_data.sql
-
+- queries.sql
 ## Total Records
 - Students: 20
 - Courses: 5
